@@ -1,3 +1,11 @@
 # Welcome to my *GitHub*!
 
-I don't actually know what to say here, lol
+I am a godot programmer and game dev. I'm looking to have great exprerience in the field!.
+
+## Some games I've made / are in development:
+ - Nine Lives
+ - The Koen and Aster Mod
+ - Space Shooter 2
+ - Among the Meek
+
+I also do art! You could find me on [DeviantArt](https://www.deviantart.com/superl132)
