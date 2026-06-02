@@ -8,5 +8,3 @@ I am a godot programmer and game dev. I'm looking to have great exprerience in t
  - Space Shooter 2
  - Among the Meek
  - Omega Engine
-
-I also do art! You could find me on [DeviantArt](https://www.deviantart.com/superl132)
